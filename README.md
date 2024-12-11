@@ -9,10 +9,11 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+Hi there! I'm Nishant , a passionate professional with a Master's degree in Chemistry. My academic journey has honed my analytical and problem-solving skills, which I am now applying to the world of data analytics. I am eager to leverage my background in research and data-driven thinking to help uncover insights and drive decision-making through data. Currently, I'm focused on developing my skills in data analysis tools and techniques to transition into a data analyst role.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :man_technologist: About Me :
+:man_technologist: About Me :
 - :telescope: 
 
 - :seedling: 
