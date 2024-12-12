@@ -14,11 +14,11 @@ Hi there! I'm Nishant , a passionate professional with a Master's degree in Chem
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 :man_technologist: About Me :
-- :telescope: 
+- :telescope: Recent Chemistry graduate
 
-- :seedling: 
+- :seedling: Currently enrolled in AiCore Bootcamp
 
-- :zap: 
+- :zap: Passionate about transforming data into effective solutions
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-rai-81a993329/))
 
