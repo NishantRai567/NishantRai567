@@ -14,6 +14,7 @@ Hi there! I'm Nishant , a passionate professional with a Master's degree in Chem
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 :man_technologist: About Me :
+
 - :telescope: Recent Chemistry graduate
 
 - :seedling: Currently enrolled in AiCore Bootcamp
