@@ -21,7 +21,7 @@ Hi there! I'm Nishant , a passionate professional with a Master's degree in Chem
 
 - :zap: Passionate about transforming data into effective solutions
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-rai-81a993329/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-rai-81a993329/))
 
 ---
 
