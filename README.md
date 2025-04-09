@@ -2,7 +2,8 @@
 I’m an aspiring Data Scientist with a Master’s in Chemistry. My analytical background drives my passion for Data Science and Machine Learning, where I apply statistical analysis and data-driven solutions to solve business challenges.
 
 ## 🌱 I'm currently learning
-- **Data Science Infinity** :I’m actively advancing my skills through the Data Science Infinity program, focusing on practical, project-based learning in:
+
+I’m actively advancing my skills through the Data Science Infinity program, focusing on practical, project-based learning in:
 
 - Data Analysis & Statistical Methods
 
