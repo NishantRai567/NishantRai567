@@ -28,7 +28,7 @@ Additionally, I’ve completed the AiCore Bootcamp in Data Analytics, specializi
 - SQL & Python for data manipulation and analysis
 
 ## 📈 My Projects
-Check out my portfolio and see my work in action on my IO page.
+Check out my portfolio and see my work in action on my io page: https://nishantrai567.github.io/
 
 ## 📫 How to reach me
 - LinkedIn: [linkedin.com/in/nishant-rai-81a993329](https://www.linkedin.com/in/nishant-rai-81a993329/)
