@@ -1,9 +1,33 @@
 ## 👋 Hi, I'm Nishant
-I'm an aspiring Data Scientist with a Master’s degree in Chemistry. My analytical mindset, honed through years of solving complex scientific problems, now drives my passion for Data Science and Machine Learning. I focus on applying statistical analysis and data-driven solutions to tackle real-world business challenges and deliver measurable impact.
+I’m an aspiring Data Scientist with a Master’s in Chemistry. My analytical background drives my passion for Data Science and Machine Learning, where I apply statistical analysis and data-driven solutions to solve business challenges.
 
 ## 🌱 I'm currently learning
-- **Data Science Infinity** :I’m actively advancing my Data Science skills through the Data Science Infinity program, a comprehensive, hands-on course that covers over 300 tutorials and in-depth resources. The curriculum is designed to teach the most in-demand skills for Data Scientists and Analysts through practical, project-based learning.
+- **Data Science Infinity** :I’m actively advancing my skills through the Data Science Infinity program, focusing on practical, project-based learning in:
 
+- Data Analysis & Statistical Methods
+
+- Machine Learning & Predictive Modeling
+
+- Data Visualization
+
+Additionally, I’ve completed the AiCore Bootcamp in Data Analytics, specializing in:
+
+- Data Wrangling & Cleaning
+
+- Predictive Analytics & Visualization Tools (e.g., Tableau, Power BI)
+
+## 🚀 Key Skills
+
+- Data Cleaning & Preprocessing
+
+- Machine Learning (Supervised & Unsupervised)
+
+- Data Visualization (Matplotlib, Seaborn, Tableau)
+
+- SQL & Python for data manipulation and analysis
+
+## 📈 My Projects
+Check out my portfolio and see my work in action on my IO page.
 
 ## 📫 How to reach me
 - LinkedIn: [linkedin.com/in/nishant-rai-81a993329](https://www.linkedin.com/in/nishant-rai-81a993329/)
